@@ -1,6 +1,6 @@
 # Franco Cabral
 
-Desarrollador Full Stack .NET orientado a backend, cloud, arquitectura de software e integración de inteligencia artificial.
+Desarrollador Full Stack .NET con foco en backend, cloud, arquitectura de software e integración de inteligencia artificial.
 
 Me interesa construir soluciones mantenibles, comprender cómo funcionan los sistemas de punta a punta y utilizar herramientas de IA como apoyo para acelerar desarrollo, debugging, testing y documentación sin perder criterio técnico sobre el código generado.
 
@@ -36,6 +36,12 @@ Me interesa construir soluciones mantenibles, comprender cómo funcionan los sis
 - YARP
 - OpenTelemetry
 
+**Testing & Calidad**
+- xUnit
+- Tests unitarios y de integración
+- CI con GitHub Actions
+- Validación de builds y flujos críticos
+
 **IA aplicada al desarrollo**
 - GitHub Copilot
 - Cursor
@@ -47,12 +53,12 @@ Me interesa construir soluciones mantenibles, comprender cómo funcionan los sis
 
 ## Proyectos destacados
 
-- **IncidentFlow** — Aplicación fullstack de gestión de incidentes con .NET 8 y Next.js.
-- **OpsPilot** — Troubleshooting asistido con RAG, Qdrant, MCP y AI Agents.
-- **IntegrationHub** — Integraciones distribuidas con RabbitMQ, Redis, Polly y observabilidad.
-- **SaaS-Tenant-Manager** — Plataforma SaaS multitenant con aislamiento y control de acceso.
-- **CloudOrders** — Arquitectura cloud event-driven sobre AWS.
-- **SecureCloudGateway** — API Gateway con OAuth2/OIDC, Entra ID y seguridad cloud.
+- **[IncidentFlow](https://github.com/FrancoJCabral/IncidentFlow)** — Aplicación fullstack de gestión de incidentes con .NET 8 y Next.js.
+- **[OpsPilot](https://github.com/FrancoJCabral/OpsPilot)** — Troubleshooting asistido con RAG, Qdrant, MCP y AI Agents.
+- **[IntegrationHub](https://github.com/FrancoJCabral/IntegrationHub)** — Integraciones distribuidas con RabbitMQ, Redis, Polly y observabilidad.
+- **[SaaS-Tenant-Manager](https://github.com/FrancoJCabral/SaaS-Tenant-Manager)** — Plataforma SaaS multitenant con aislamiento y control de acceso.
+- **[CloudOrders](https://github.com/FrancoJCabral/CloudOrders)** — Arquitectura cloud event-driven sobre AWS.
+- **[SecureCloudGateway](https://github.com/FrancoJCabral/SecureCloudGateway)** — API Gateway con OAuth2/OIDC, Entra ID y seguridad cloud.
 
 ## Formación
 
@@ -66,4 +72,4 @@ Abril 2018 — Diciembre 2024
 - Resolución de incidencias
 - Implementación de sistemas ERP
 - Gestión de tareas con Jira
-- Inglés A2
+- Inglés B2
