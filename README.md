@@ -7,6 +7,7 @@ Me interesa construir soluciones mantenibles, comprender cómo funcionan los sis
 ## Stack técnico
 
 **Backend**
+
 - C#
 - .NET / ASP.NET Core
 - Programación Orientada a Objetos
@@ -14,21 +15,25 @@ Me interesa construir soluciones mantenibles, comprender cómo funcionan los sis
 - GeneXus
 
 **Datos**
+
 - SQL Server
 - MySQL
 
 **Frontend**
+
 - JavaScript / TypeScript
 - Next.js
 
 **Cloud & DevOps**
-- AWS
-- Azure
+
+- AWS — arquitectura cloud, SQS, SNS, Lambda y CloudFormation
+- Azure — Entra ID, Key Vault y arquitectura Azure-ready
 - Docker
 - GitHub Actions
 - Kubernetes
 
 **Arquitectura e Integraciones**
+
 - RabbitMQ
 - Redis
 - OAuth2 / OpenID Connect
@@ -37,12 +42,14 @@ Me interesa construir soluciones mantenibles, comprender cómo funcionan los sis
 - OpenTelemetry
 
 **Testing & Calidad**
+
 - xUnit
 - Tests unitarios y de integración
 - CI con GitHub Actions
 - Validación de builds y flujos críticos
 
 **IA aplicada al desarrollo**
+
 - GitHub Copilot
 - Cursor
 - Claude
@@ -53,12 +60,12 @@ Me interesa construir soluciones mantenibles, comprender cómo funcionan los sis
 
 ## Proyectos destacados
 
-- **[IncidentFlow](https://github.com/FrancoJCabral/IncidentFlow)** — Aplicación fullstack de gestión de incidentes con .NET 8 y Next.js.
-- **[OpsPilot](https://github.com/FrancoJCabral/OpsPilot)** — Troubleshooting asistido con RAG, Qdrant, MCP y AI Agents.
-- **[IntegrationHub](https://github.com/FrancoJCabral/IntegrationHub)** — Integraciones distribuidas con RabbitMQ, Redis, Polly y observabilidad.
-- **[SaaS-Tenant-Manager](https://github.com/FrancoJCabral/SaaS-Tenant-Manager)** — Plataforma SaaS multitenant con aislamiento y control de acceso.
-- **[CloudOrders](https://github.com/FrancoJCabral/CloudOrders)** — Arquitectura cloud event-driven sobre AWS.
-- **[SecureCloudGateway](https://github.com/FrancoJCabral/SecureCloudGateway)** — API Gateway con OAuth2/OIDC, Entra ID y seguridad cloud.
+- [**IncidentFlow**](https://github.com/FrancoJCabral/IncidentFlow) — Aplicación fullstack de gestión de incidentes con .NET 8 y Next.js.
+- [**OpsPilot**](https://github.com/FrancoJCabral/OpsPilot) — Troubleshooting asistido con RAG, Qdrant, MCP y AI Agents.
+- [**IntegrationHub**](https://github.com/FrancoJCabral/IntegrationHub) — Integraciones distribuidas con RabbitMQ, Redis, Polly y observabilidad.
+- [**SaaS-Tenant-Manager**](https://github.com/FrancoJCabral/SaaS-Tenant-Manager) — Plataforma SaaS multitenant con aislamiento y control de acceso.
+- [**CloudOrders**](https://github.com/FrancoJCabral/CloudOrders) — Arquitectura cloud event-driven sobre AWS.
+- [**SecureCloudGateway**](https://github.com/FrancoJCabral/SecureCloudGateway) — API Gateway con OAuth2/OIDC, Entra ID y seguridad cloud.
 
 ## Formación
 
